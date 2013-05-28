@@ -1,2 +1,5 @@
-application/cache/*
-application/logs/*
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.DS_Store
